@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.1"
+  },
+  "scripts": {
+    "start": "nodemon Day$DN/day$DN.js"
+  }
+}
